@@ -1,12 +1,11 @@
 # Simple Calculator
 
-This is a simple calculator implemented using HTML. It allows users to perform basic arithmetic operations.
+This is a simple calculator implemented using HTML. 
 
 ## Usage
 
-1. Enter numbers and perform calculations by clicking on the buttons provided.
-2. The calculator supports addition (+), subtraction (-), multiplication (*), and division (/).
-3. Press "=" to display the result of the calculation.
+1. The calculator supports addition (+), subtraction (-), multiplication (*), and division (/).
+2. Press "=" to display the result of the calculation.
 
 ## Features
 
